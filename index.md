@@ -20,7 +20,7 @@ Edward Gan, **Jialin Ding**, Kai Sheng Tai, Vatsal Sharan and Peter Bailis. <br>
 *VLDB 2018. Submitted for review*.
 - [Efficient Mergeable Quantile Sketches using Moments](http://dawn.cs.stanford.edu/pubs/gan2018emerge.pdf). <br>
 Edward Gan, **Jialin Ding**, Peter Bailis. <br>
-*SysML 2018. Poster*.
+*SysML 2018. Extended Abstract*.
 - [MacroBase: Prioritizing Attention in Fast Data](https://macrobase.stanford.edu/). <br>
 Peter Bailis, Edward Gan, Samuel Madden, Deepak Narayanan, Kexin Rong, Sahaana Suri and **Jialin Ding**. <br>
 *ACM Transactions on Database Systems 2017. Submitted for review*.
