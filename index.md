@@ -6,10 +6,11 @@ layout: default
 <img src="/static/jialin.jpg" alt="Jialin" style="width: 180px; height: 192px; float: right; margin: 10px"/>
 <!-- ![Jialin](/static/jialin.jpg) -->
 
-I am a senior at Stanford University majoring in Electrical Engineering.
-I work with [Prof. Peter Bailis](http://www.bailis.org) as part of the [Future Data Group](http://futuredata.stanford.edu/) and [Stanford DAWN](http://dawn.cs.stanford.edu).
-My focus is in data-intensive systems.
-In the fall I will start my PhD in EECS at MIT.
+I am a first year CS PhD in the [MIT Database Group](http://db.csail.mit.edu/), where I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/).
+My interests lie broadly in the intersection of systems and machine learning.
+
+In the past, I have worked with [Umar Farooq Minhas](https://www.microsoft.com/en-us/research/people/ufminhas/) and the [Database Group](https://www.microsoft.com/en-us/research/group/database/) at Microsoft Research on updatable learned index structures.
+Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with [Prof. Peter Bailis](http://www.bailis.org) as part of [Stanford DAWN](http://dawn.cs.stanford.edu).
 
 ---
 
@@ -17,7 +18,7 @@ In the fall I will start my PhD in EECS at MIT.
 
 - [Moment-Based Quantile Sketches for Efficient High Cardinality Aggregation Queries](https://arxiv.org/pdf/1803.01969.pdf). <br>
 Edward Gan, **Jialin Ding**, Kai Sheng Tai, Vatsal Sharan and Peter Bailis. <br>
-*VLDB 2018. Submitted for review*.
+*VLDB 2018*.
 - [Efficient Mergeable Quantile Sketches using Moments](http://dawn.cs.stanford.edu/pubs/gan2018emerge.pdf). <br>
 Edward Gan, **Jialin Ding**, Peter Bailis. <br>
 *SysML 2018. Extended Abstract*.
@@ -40,4 +41,4 @@ ___
 
 ## Contact
 
-jding09@stanford.edu
+jialind@mit.edu
