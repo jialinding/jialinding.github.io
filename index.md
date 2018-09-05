@@ -11,6 +11,7 @@ My interests lie broadly in the intersection of systems and machine learning.
 
 In the past, I have worked with [Umar Farooq Minhas](https://www.microsoft.com/en-us/research/people/ufminhas/) and the [Database Group](https://www.microsoft.com/en-us/research/group/database/) at Microsoft Research on updatable learned index structures.
 Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with [Prof. Peter Bailis](http://www.bailis.org) as part of [Stanford DAWN](http://dawn.cs.stanford.edu).
+My [resume](/resume.pdf).
 
 ---
 
