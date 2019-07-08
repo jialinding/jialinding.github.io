@@ -17,7 +17,10 @@ My [CV](/cv.pdf).
 
 ## Publications
 
-- [SageDB: A Learned Database Systems](http://cidrdb.org/cidr2019/papers/p117-kraska-cidr19.pdf). [[the morning paper](https://blog.acolyer.org/2019/01/16/sagedb-a-learned-database-system/)]<br>
+- [ALEX: An Updatable Adaptive Learned Index](https://arxiv.org/pdf/1905.08898.pdf). <br>
+**Jialin Ding**, Umar Farooq Minhas, Hantian Zhang, Yinan Li, Chi Wang, Badrish Chandramouli, Johannes Gehrke, Donald Kossmann, David Lomet. <br>
+*Preprint*.
+- [SageDB: A Learned Database System](http://cidrdb.org/cidr2019/papers/p117-kraska-cidr19.pdf). [[the morning paper](https://blog.acolyer.org/2019/01/16/sagedb-a-learned-database-system/)]<br>
 Tim Kraska, Mohammad Alizadeh, Alex Beutel, Ed Chi, **Jialin Ding**, Ani Kristo, Guillaume Leclerc, Samuel Madden, Hongzi Mao and Vikram Nathan. <br>
 *CIDR 2019*.
 - [Moment-Based Quantile Sketches for Efficient High Cardinality Aggregation Queries](https://arxiv.org/pdf/1803.01969.pdf). [[the morning paper](https://blog.acolyer.org/2018/10/31/moment-based-quantile-sketches-for-efficient-high-cardinality-aggregation-queries/)] [[blog](https://dawn.cs.stanford.edu/2018/08/29/moments/)]<br>
