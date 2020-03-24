@@ -20,8 +20,8 @@ My [CV](/cv.pdf).
 ## Publications
 
 - [ALEX: An Updatable Adaptive Learned Index](https://arxiv.org/pdf/1905.08898.pdf). <br>
-**Jialin Ding**, Umar Farooq Minhas, Hantian Zhang, Yinan Li, Chi Wang, Badrish Chandramouli, Johannes Gehrke, Donald Kossmann and David Lomet. <br>
-*Preprint*.
+**Jialin Ding**, Umar Farooq Minhas, Jia Yu, Chi Wang, Hantian Zhang, Yinan Li, Jaeyoung Do, Donald Kossmann, Johannes Gehrke, David Lomet, Badrish Chandramouli and Tim Kraska. <br>
+*SIGMOD 2020*.
 - [Learning Multi-dimensional Indexes](https://arxiv.org/pdf/1912.01668.pdf). <br>
 Vikram Nathan<sup>\*</sup>, **Jialin Ding<sup>\*</sup>**, Mohammad Alizadeh and Tim Kraska. <br>
 *SIGMOD 2020*.
