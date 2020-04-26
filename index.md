@@ -19,10 +19,10 @@ My [CV](/cv.pdf).
 
 ## Publications
 
-- [ALEX: An Updatable Adaptive Learned Index](https://arxiv.org/pdf/1905.08898.pdf). <br>
-**Jialin Ding**, Umar Farooq Minhas, Jia Yu, Chi Wang, Hantian Zhang, Yinan Li, Jaeyoung Do, Donald Kossmann, Johannes Gehrke, David Lomet, Badrish Chandramouli and Tim Kraska. <br>
+- [ALEX: An Updatable Adaptive Learned Index](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/MSRAlexTechnicalReport.pdf). <br>
+**Jialin Ding**, Umar Farooq Minhas, Jia Yu, Chi Wang, Jaeyoung Do, Hantian Zhang, Yinan Li, Badrish Chandramouli, Johannes Gehrke, Donald Kossmann, David Lomet and Tim Kraska. <br>
 *SIGMOD 2020*.
-- [Learning Multi-dimensional Indexes](https://arxiv.org/pdf/1912.01668.pdf). <br>
+- [Learning Multi-dimensional Indexes](https://arxiv.org/pdf/1912.01668.pdf). [[seminar talk](https://drive.google.com/file/d/13D6f_f7N018Cim4_crL0NJkjWAuKOjHg/view)]<br>
 Vikram Nathan<sup>\*</sup>, **Jialin Ding<sup>\*</sup>**, Mohammad Alizadeh and Tim Kraska. <br>
 *SIGMOD 2020*.
 - [LISA: Towards Learned DNA Sequence Search](https://arxiv.org/pdf/1910.04728.pdf). <br>
@@ -54,6 +54,7 @@ Volodymyr Kuleshov, **Jialin Ding**, Braden Hancock, Alexander Ratner, Christoph
 
 ## Experience
 
+- Research Intern @ MSR Redmond, Summer 2020
 - Research Intern @ MSR Redmond, Summer 2018
 - Software Engineering Intern @ Google, Summer 2016
 - Software Engineering Intern @ Thumbtack, Summer 2015
