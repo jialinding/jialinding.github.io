@@ -22,13 +22,13 @@ My [CV](/cv.pdf).
 - [ALEX: An Updatable Adaptive Learned Index](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/MSRAlexTechnicalReport.pdf). <br>
 **Jialin Ding**, Umar Farooq Minhas, Jia Yu, Chi Wang, Jaeyoung Do, Hantian Zhang, Yinan Li, Badrish Chandramouli, Johannes Gehrke, Donald Kossmann, David Lomet and Tim Kraska. <br>
 *SIGMOD 2020*.
-- [Learning Multi-dimensional Indexes](https://arxiv.org/pdf/1912.01668.pdf). [[seminar talk](https://drive.google.com/file/d/13D6f_f7N018Cim4_crL0NJkjWAuKOjHg/view)]<br>
+- [Learning Multi-dimensional Indexes](https://arxiv.org/pdf/1912.01668.pdf). [[talk](https://slideslive.com/38922481/contributed-talk-3-learning-multidimensional-indexes)] [[seminar talk](https://drive.google.com/file/d/13D6f_f7N018Cim4_crL0NJkjWAuKOjHg/view)]<br>
 Vikram Nathan<sup>\*</sup>, **Jialin Ding<sup>\*</sup>**, Mohammad Alizadeh and Tim Kraska. <br>
 *SIGMOD 2020*.
 - [LISA: Towards Learned DNA Sequence Search](https://arxiv.org/pdf/1910.04728.pdf). <br>
 Darryl Ho, **Jialin Ding**, Sanchit Misra, Nesime Tatbul, Vikram Nathan, Vasimuddin Md and Tim Kraska. <br>
 *NeurIPS Workshop on Systems for ML 2019. Oral Presentation*.
-- [Learning Multi-dimensional Indexes](http://mlforsystems.org/accepted_papers.html). <br>
+- [Learning Multi-dimensional Indexes](http://mlforsystems.org/accepted_papers.html). [[talk](https://slideslive.com/38922481/contributed-talk-3-learning-multidimensional-indexes)]<br>
 Vikram Nathan<sup>\*</sup>, **Jialin Ding<sup>\*</sup>**, Mohammad Alizadeh and Tim Kraska. <br>
 *NeurIPS Workshop on ML for Systems 2019. Oral Presentation*.
 - [SageDB: A Learned Database System](http://cidrdb.org/cidr2019/papers/p117-kraska-cidr19.pdf). [[the morning paper](https://blog.acolyer.org/2019/01/16/sagedb-a-learned-database-system/)]<br>
