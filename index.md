@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Jialin Ding
-description: I am a second year CS PhD in the MIT Data Systems Group, where I am advised by Prof. Tim Kraska. My interests lie broadly at the intersection of systems and machine learning.
+description: I am a third year CS PhD in the MIT Data Systems Group, where I am advised by Prof. Tim Kraska. My interests lie broadly at the intersection of systems and machine learning.
 ---
 
 # Jialin Ding
 <img src="/static/jialin.jpg" alt="Jialin" style="width: 180px; height: 192px; float: right; margin: 10px"/>
 <!-- ![Jialin](/static/jialin.jpg) -->
 
-I am a second year CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.edu/), where I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/).
+I am a third year CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.edu/), where I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/).
 My interests lie broadly at the intersection of systems and machine learning.
 
 I also collaborate with [Umar Farooq Minhas](https://www.microsoft.com/en-us/research/people/ufminhas/) and the [Database Group](https://www.microsoft.com/en-us/research/group/database/) at Microsoft Research on learned data structures.
@@ -19,36 +19,53 @@ My [CV](/cv.pdf).
 
 ## Publications
 
-- [ALEX: An Updatable Adaptive Learned Index](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/MSRAlexTechnicalReport.pdf). <br>
+- [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](https://arxiv.org/pdf/2006.13282.pdf). <br>
+**Jialin Ding**, Vikram Nathan, Mohammad Alizadeh and Tim Kraska. <br>
+*VLDB 2021*.
+
+- [The Case for Learned Spatial Indexes](https://sites.google.com/view/aidb2020). <br>
+Varun Pandey, Alexander van Renen, Andreas Kipf, Ibrahim Sabek, **Jialin Ding** and Alfons Kemper. <br>
+*AIDB Workshop @ VLDB 2020*.
+
+- [ALEX: An Updatable Adaptive Learned Index](https://arxiv.org/pdf/1905.08898.pdf). [[talk](https://www.youtube.com/watch?v=wVxbOcwYZ8I)] [[code](https://github.com/microsoft/ALEX)]<br>
 **Jialin Ding**, Umar Farooq Minhas, Jia Yu, Chi Wang, Jaeyoung Do, Hantian Zhang, Yinan Li, Badrish Chandramouli, Johannes Gehrke, Donald Kossmann, David Lomet and Tim Kraska. <br>
 *SIGMOD 2020*.
+
 - [Learning Multi-dimensional Indexes](https://arxiv.org/pdf/1912.01668.pdf). [[talk](https://slideslive.com/38922481/contributed-talk-3-learning-multidimensional-indexes)] [[seminar talk](https://drive.google.com/file/d/13D6f_f7N018Cim4_crL0NJkjWAuKOjHg/view)]<br>
 Vikram Nathan<sup>\*</sup>, **Jialin Ding<sup>\*</sup>**, Mohammad Alizadeh and Tim Kraska. <br>
 *SIGMOD 2020*.
+
 - [LISA: Towards Learned DNA Sequence Search](https://arxiv.org/pdf/1910.04728.pdf). <br>
 Darryl Ho, **Jialin Ding**, Sanchit Misra, Nesime Tatbul, Vikram Nathan, Vasimuddin Md and Tim Kraska. <br>
-*NeurIPS Workshop on Systems for ML 2019. Oral Presentation*.
-- [Learning Multi-dimensional Indexes](http://mlforsystems.org/accepted_papers.html). [[talk](https://slideslive.com/38922481/contributed-talk-3-learning-multidimensional-indexes)]<br>
+*Systems for ML Workshop @ NeurIPS 2019. Oral Presentation*.
+
+- [Learning Multi-dimensional Indexes](http://mlforsystems.org/assets/papers/neurips2019/learning_nathan_2019.pdf). [[talk](https://slideslive.com/38922481/contributed-talk-3-learning-multidimensional-indexes)]<br>
 Vikram Nathan<sup>\*</sup>, **Jialin Ding<sup>\*</sup>**, Mohammad Alizadeh and Tim Kraska. <br>
-*NeurIPS Workshop on ML for Systems 2019. Oral Presentation*.
+*ML for Systems Workshop @ NeurIPS 2019. Oral Presentation*.
+
 - [SageDB: A Learned Database System](http://cidrdb.org/cidr2019/papers/p117-kraska-cidr19.pdf). [[the morning paper](https://blog.acolyer.org/2019/01/16/sagedb-a-learned-database-system/)]<br>
 Tim Kraska, Mohammad Alizadeh, Alex Beutel, Ed Chi, **Jialin Ding**, Ani Kristo, Guillaume Leclerc, Samuel Madden, Hongzi Mao and Vikram Nathan. <br>
 *CIDR 2019*.
+
 - [A Machine-compiled Database of Genome-wide Association Studies](https://www.nature.com/articles/s41467-019-11026-x). <br>
 Volodymyr Kuleshov, **Jialin Ding**, Christopher Vo, Braden Hancock, Alexander Ratner, Yang Li, Christopher Ré, Serafim Batzoglou and Michael Snyder <br>
 *Nature Communications 2019*.
+
 - [Moment-Based Quantile Sketches for Efficient High Cardinality Aggregation Queries](https://arxiv.org/pdf/1803.01969.pdf). [[the morning paper](https://blog.acolyer.org/2018/10/31/moment-based-quantile-sketches-for-efficient-high-cardinality-aggregation-queries/)] [[blog](https://dawn.cs.stanford.edu/2018/08/29/moments/)]<br>
 Edward Gan, **Jialin Ding**, Kai Sheng Tai, Vatsal Sharan and Peter Bailis. <br>
 *VLDB 2018*.
+
 - [Efficient Mergeable Quantile Sketches using Moments](http://dawn.cs.stanford.edu/pubs/gan2018emerge.pdf). <br>
 Edward Gan, **Jialin Ding**, Peter Bailis. <br>
 *SysML 2018. Extended Abstract*.
+
 - [MacroBase: Prioritizing Attention in Fast Data](https://dl.acm.org/citation.cfm?doid=3298792.3276463). <br>
 Firas Abuzaid, Peter Bailis, **Jialin Ding**, Edward Gan, Samuel Madden, Deepak Narayanan, Kexin Rong and Sahaana Suri. <br>
-*ACM Transactions on Database Systems 2018*.
+*TODS 2018*.
+
 - [A Machine-Compiled Database of Genome-Wide Association Studies](https://drive.google.com/file/d/0B4y0zfdRviKsRW5Zd0FBVlFIa3c/view). <br>
 Volodymyr Kuleshov, **Jialin Ding**, Braden Hancock, Alexander Ratner, Christopher Re, Serafim Batzoglou and Michael Snyder. <br>
-*25th Conference on Intelligent Systems for Molecular Biology (ISMB) 2017. Short Paper*.
+*ISMB 2017. Short Paper*.
 
 ---
 
