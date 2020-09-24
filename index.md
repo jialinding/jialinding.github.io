@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jialin Ding
-description: I am a third year CS PhD in the MIT Data Systems Group, where I am advised by Prof. Tim Kraska. My interests lie broadly at the intersection of systems and machine learning.
+description: I am a third year CS PhD in the MIT Data Systems Group, where I am advised by Prof. Tim Kraska. My research focuses on applying machine learning to database systems.
 ---
 
 # Jialin Ding
@@ -9,7 +9,7 @@ description: I am a third year CS PhD in the MIT Data Systems Group, where I am 
 <!-- ![Jialin](/static/jialin.jpg) -->
 
 I am a third year CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.edu/), where I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/).
-My interests lie broadly at the intersection of systems and machine learning.
+My research focuses on applying machine learning to database systems.
 
 I also collaborate with [Umar Farooq Minhas](https://www.microsoft.com/en-us/research/people/ufminhas/) and the [Database Group](https://www.microsoft.com/en-us/research/group/database/) at Microsoft Research on learned data structures.
 Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with [Prof. Peter Bailis](http://www.bailis.org) as part of [Stanford DAWN](http://dawn.cs.stanford.edu).
@@ -19,7 +19,7 @@ My [CV](/cv.pdf).
 
 ## Publications
 
-- [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](https://arxiv.org/pdf/2006.13282.pdf). <br>
+- [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](https://arxiv.org/pdf/2006.13282.pdf). [[news](https://news.mit.edu/2020/mit-data-systems-learn-be-better-tsunami-bao-0810)]<br>
 **Jialin Ding**, Vikram Nathan, Mohammad Alizadeh and Tim Kraska. <br>
 *VLDB 2021*.
 
