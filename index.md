@@ -69,6 +69,12 @@ Volodymyr Kuleshov, **Jialin Ding**, Braden Hancock, Alexander Ratner, Christoph
 
 ---
 
+## Service
+
+- TKDE 2020 External Reviewer
+
+---
+
 ## Experience
 
 - Research Intern @ MSR Redmond, Summer 2020
