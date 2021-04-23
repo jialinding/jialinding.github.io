@@ -12,22 +12,31 @@ I am a third year CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.ed
 My research focuses on applying machine learning to database systems.
 
 I also collaborate with [Umar Farooq Minhas](https://www.microsoft.com/en-us/research/people/ufminhas/) and the [Database Group](https://www.microsoft.com/en-us/research/group/database/) at Microsoft Research on learned data structures.
-Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with [Prof. Peter Bailis](http://www.bailis.org) as part of [Stanford DAWN](http://dawn.cs.stanford.edu).
-My [CV](/cv.pdf).
+Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with [Prof. Peter Bailis](http://www.bailis.org) as part of [Stanford DAWN](http://dawn.cs.stanford.edu). My research is partly supported by a [Facebook Fellowship](https://research.fb.com/fellows/ding-jialin/).
+
+[[CV](/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=uUiXiMIAAAAJ)]
 
 ---
 
 ## Publications
 
+- [Cortex: Harnessing Correlations to Boost Query Performance](https://arxiv.org/pdf/2012.06683.pdf).<br>
+Vikram Nathan, **Jialin Ding**, Tim Kraska and Mohammad Alizadeh. <br>
+*Preprint*.
+
 - [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](https://arxiv.org/pdf/2006.13282.pdf). [[news](https://news.mit.edu/2020/mit-data-systems-learn-be-better-tsunami-bao-0810)]<br>
 **Jialin Ding**, Vikram Nathan, Mohammad Alizadeh and Tim Kraska. <br>
 *VLDB 2021*.
+
+- [Instance-Optimized Data Layouts for Cloud Analytics Workloads](https://www.microsoft.com/en-us/research/uploads/prod/2021/04/msr-mto-sigmod.pdf).<br>
+**Jialin Ding**, Umar Farooq Minhas, Badrish Chandramouli, Chi Wang, Yinan Li, Ying Li, Donald Kossmann, Johannes Gehrke and Tim Kraska. <br>
+*SIGMOD 2021*.
 
 - [The Case for Learned Spatial Indexes](https://sites.google.com/view/aidb2020). <br>
 Varun Pandey, Alexander van Renen, Andreas Kipf, Ibrahim Sabek, **Jialin Ding** and Alfons Kemper. <br>
 *AIDB Workshop @ VLDB 2020*.
 
-- [ALEX: An Updatable Adaptive Learned Index](https://arxiv.org/pdf/1905.08898.pdf). [[talk](https://www.youtube.com/watch?v=wVxbOcwYZ8I)] [[code](https://github.com/microsoft/ALEX)]<br>
+- [ALEX: An Updatable Adaptive Learned Index](https://arxiv.org/pdf/1905.08898.pdf). [[talk](https://www.youtube.com/watch?v=wVxbOcwYZ8I)] [[seminar talk](https://www.youtube.com/watch?v=Zv04F380hCw)] [[code](https://github.com/microsoft/ALEX)]<br>
 **Jialin Ding**, Umar Farooq Minhas, Jia Yu, Chi Wang, Jaeyoung Do, Hantian Zhang, Yinan Li, Badrish Chandramouli, Johannes Gehrke, Donald Kossmann, David Lomet and Tim Kraska. <br>
 *SIGMOD 2020*.
 
