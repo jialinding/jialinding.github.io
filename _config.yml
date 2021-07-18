@@ -16,7 +16,7 @@
 title: Jialin Ding
 email: jialind@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a third year CS PhD in the MIT Database Group, where I am advised by Prof. Tim Kraska.
+  I am a fourth year CS PhD in the MIT Database Group, where I am advised by Prof. Tim Kraska.
   My research focuses on applying machine learning to database systems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

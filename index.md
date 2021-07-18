@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Jialin Ding
-description: I am a third year CS PhD in the MIT Data Systems Group, where I am advised by Prof. Tim Kraska. My research focuses on applying machine learning to database systems.
+description: I am a fourth year CS PhD in the MIT Data Systems Group, where I am advised by Prof. Tim Kraska. My research focuses on applying machine learning to database systems.
 ---
 
 # Jialin Ding
 <img src="/static/jialin.jpg" alt="Jialin" style="width: 180px; height: 192px; float: right; margin: 10px"/>
 <!-- ![Jialin](/static/jialin.jpg) -->
 
-I am a third year CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.edu/), where I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/).
+I am a fourth year CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.edu/), where I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/).
 My research focuses on applying machine learning to database systems.
 
 I also collaborate with [Umar Farooq Minhas](https://www.microsoft.com/en-us/research/people/ufminhas/) and the [Database Group](https://www.microsoft.com/en-us/research/group/database/) at Microsoft Research on learned data structures.
@@ -20,8 +20,8 @@ Prior to MIT, I was an undergraduate at Stanford University, where I worked on d
 
 ## Publications
 
-- [Cortex: Harnessing Correlations to Boost Query Performance](https://arxiv.org/pdf/2012.06683.pdf).<br>
-Vikram Nathan, **Jialin Ding**, Tim Kraska and Mohammad Alizadeh. <br>
+- [APEX: A High-Performance Learned Index on Persistent Memory](https://arxiv.org/pdf/2105.00683.pdf).<br>
+Baotong Lu, **Jialin Ding**, Eric Lo, Umar Farooq Minhas and Tianzheng Wang. <br>
 *Preprint*.
 
 - [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](https://arxiv.org/pdf/2006.13282.pdf). [[news](https://news.mit.edu/2020/mit-data-systems-learn-be-better-tsunami-bao-0810)]<br>
@@ -31,6 +31,10 @@ Vikram Nathan, **Jialin Ding**, Tim Kraska and Mohammad Alizadeh. <br>
 - [Instance-Optimized Data Layouts for Cloud Analytics Workloads](https://www.microsoft.com/en-us/research/uploads/prod/2021/04/msr-mto-sigmod.pdf).<br>
 **Jialin Ding**, Umar Farooq Minhas, Badrish Chandramouli, Chi Wang, Yinan Li, Ying Li, Donald Kossmann, Johannes Gehrke and Tim Kraska. <br>
 *SIGMOD 2021*.
+
+- [Cortex: Harnessing Correlations to Boost Query Performance](https://arxiv.org/pdf/2012.06683.pdf).<br>
+Vikram Nathan, **Jialin Ding**, Tim Kraska and Mohammad Alizadeh. <br>
+*CoRR 2020*.
 
 - [The Case for Learned Spatial Indexes](https://sites.google.com/view/aidb2020). <br>
 Varun Pandey, Alexander van Renen, Andreas Kipf, Ibrahim Sabek, **Jialin Ding** and Alfons Kemper. <br>
