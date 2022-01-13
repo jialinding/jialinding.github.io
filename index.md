@@ -22,7 +22,11 @@ Prior to MIT, I was an undergraduate at Stanford University, where I worked on d
 
 - [APEX: A High-Performance Learned Index on Persistent Memory](https://arxiv.org/pdf/2105.00683.pdf).<br>
 Baotong Lu, **Jialin Ding**, Eric Lo, Umar Farooq Minhas and Tianzheng Wang. <br>
-*Preprint*.
+*VLDB 2022*.
+
+- [Self-Organizing Data Containers](http://cidrdb.org/cidr2022/papers/p44-madden.pdf).<br>
+Samuel Madden **Jialin Ding**, Tim Kraska, Sivaprasad Sudhir, David Cohen, Timothy Mattson and Nesime Tatbul. <br>
+*CIDR 2022*.
 
 - [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](https://arxiv.org/pdf/2006.13282.pdf). [[news](https://news.mit.edu/2020/mit-data-systems-learn-be-better-tsunami-bao-0810)]<br>
 **Jialin Ding**, Vikram Nathan, Mohammad Alizadeh and Tim Kraska. <br>
@@ -82,8 +86,11 @@ Volodymyr Kuleshov, **Jialin Ding**, Braden Hancock, Alexander Ratner, Christoph
 
 ---
 
-## Service
+## Teaching and Service
 
+- VLDB 2022 Demo Track Reviewer
+- [6.887: Machine Learning for Systems](http://dsg.csail.mit.edu/6.887/), Fall 2021 Teaching Assistant
+- VLDB 2021 Student Volunteer
 - TKDE 2020 External Reviewer
 
 ---
