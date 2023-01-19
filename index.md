@@ -1,24 +1,28 @@
 ---
 layout: default
 title: Jialin Ding
-description: I am a fourth year CS PhD in the MIT Data Systems Group, where I am advised by Prof. Tim Kraska. My research focuses on applying machine learning to database systems.
+description: I am an applied scientist at AWS, where I work on autonomics in Amazon Redshift. I was previously a CS PhD in the MIT Data Systems Group, where my research focused on applying machine learning to database systems.
 ---
 
 # Jialin Ding
 <img src="/static/jialin.jpg" alt="Jialin" style="width: 180px; height: 192px; float: right; margin: 10px"/>
 <!-- ![Jialin](/static/jialin.jpg) -->
 
-I am a fourth year CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.edu/), where I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/).
-My research focuses on applying machine learning to database systems.
+I am an applied scientist at AWS, where I work on autonomics in Amazon Redshift.
 
-I also collaborate with [Umar Farooq Minhas](https://www.microsoft.com/en-us/research/people/ufminhas/) and the [Database Group](https://www.microsoft.com/en-us/research/group/database/) at Microsoft Research on learned data structures.
-Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with [Prof. Peter Bailis](http://www.bailis.org) as part of [Stanford DAWN](http://dawn.cs.stanford.edu). My research is partly supported by a [Facebook Fellowship](https://research.fb.com/fellows/ding-jialin/).
+I was previously a CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.edu/), where I was advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). My research focused on applying machine learning to database systems.
+<!-- I also collaborate with [Umar Farooq Minhas](https://www.microsoft.com/en-us/research/people/ufminhas/) and the [Database Group](https://www.microsoft.com/en-us/research/group/database/) at Microsoft Research on learned data structures. -->
+Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with [Prof. Peter Bailis](http://www.bailis.org) as part of [Stanford DAWN](http://dawn.cs.stanford.edu). My research was partly supported by a [Facebook Fellowship](https://research.fb.com/fellows/ding-jialin/).
 
 [[CV](/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=uUiXiMIAAAAJ)]
 
 ---
 
 ## Publications
+
+- [SageDB: An Instance-Optimized Data Analytics System](https://www.vldb.org/pvldb/vol15/p4062-ding.pdf).<br>
+**Jialin Ding**, Ryan Marcus, Andreas Kipf, Vikram Nathan, Aniruddha Nrusimha, Kapil Vaidya, Alexander van Renen and Tim Kraska. <br>
+*VLDB 2023*.
 
 - [APEX: A High-Performance Learned Index on Persistent Memory](https://arxiv.org/pdf/2105.00683.pdf).<br>
 Baotong Lu, **Jialin Ding**, Eric Lo, Umar Farooq Minhas and Tianzheng Wang. <br>
