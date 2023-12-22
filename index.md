@@ -14,11 +14,15 @@ I was previously a CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.e
 <!-- I also collaborate with [Umar Farooq Minhas](https://www.microsoft.com/en-us/research/people/ufminhas/) and the [Database Group](https://www.microsoft.com/en-us/research/group/database/) at Microsoft Research on learned data structures. -->
 Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with [Prof. Peter Bailis](http://www.bailis.org) as part of [Stanford DAWN](http://dawn.cs.stanford.edu). My research was partly supported by a [Facebook Fellowship](https://research.fb.com/fellows/ding-jialin/).
 
-[[CV](/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=uUiXiMIAAAAJ)]
+[[CV](/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=uUiXiMIAAAAJ)] [[Twitter](https://twitter.com/jialin_ding)]
 
 ---
 
 ## Publications
+
+- [Learning Bit Allocations for Z-Order Layouts in Analytic Data Systems](https://mlforsystems.org/assets/papers/neurips2023/paper6.pdf).<br>
+Jenny Gao, **Jialin Ding**, Sivaprasad Sudhir and Samuel Madden. <br>
+*ML for Systems Workshop @ NeurIPS 2023*.
 
 - [SageDB: An Instance-Optimized Data Analytics System](https://www.vldb.org/pvldb/vol15/p4062-ding.pdf).<br>
 **Jialin Ding**, Ryan Marcus, Andreas Kipf, Vikram Nathan, Aniruddha Nrusimha, Kapil Vaidya, Alexander van Renen and Tim Kraska. <br>
@@ -92,15 +96,17 @@ Volodymyr Kuleshov, **Jialin Ding**, Braden Hancock, Alexander Ratner, Christoph
 
 ## Teaching and Service
 
-- VLDB 2022 Demo Track Reviewer
-- [6.887: Machine Learning for Systems](http://dsg.csail.mit.edu/6.887/), Fall 2021 Teaching Assistant
-- VLDB 2021 Student Volunteer
-- TKDE 2020 External Reviewer
+- Reviewer: VLDB Demo Track, 2022-2023
+- Reviewer: VLDB Journal, 2023
+- Reviewer: TKDE, 2020
+- Teaching Assistant: [6.887: Machine Learning for Systems](http://dsg.csail.mit.edu/6.887/), Fall 2021 
+- Student Volunteer: VLDB 2021
 
 ---
 
 ## Experience
 
+- Applied Scientist @ AWS, 2022-Present
 - Research Intern @ MSR Redmond, Summer 2020
 - Research Intern @ MSR Redmond, Summer 2018
 - Software Engineering Intern @ Google, Summer 2016
@@ -110,4 +116,4 @@ ___
 
 ## Contact
 
-jialind@mit.edu
+jialind@amazon.com
