@@ -96,6 +96,7 @@ Volodymyr Kuleshov, **Jialin Ding**, Braden Hancock, Alexander Ratner, Christoph
 
 ## Teaching and Service
 
+- Reviewer: VLDB, 2025
 - Reviewer: VLDB Demo Track, 2022-2023
 - Reviewer: VLDB Journal, 2023
 - Reviewer: TKDE, 2020
