@@ -5,26 +5,26 @@ description: I am an applied scientist at AWS, where I work on autonomics in Ama
 ---
 
 # Jialin Ding
-<img src="/static/jialin.jpg" alt="Jialin" style="width: 180px; height: 192px; float: right; margin: 10px"/>
+<img src="/static/jialin.jpg" alt="Jialin" style="width: 200px; height: 189px; float: right; margin: 10px"/>
 <!-- ![Jialin](/static/jialin.jpg) -->
 
 I am an applied scientist at AWS, where I work on autonomics in Amazon Redshift.
 
-I was previously a CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.edu/), where I was advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). My research focused on applying machine learning to database systems.
-<!-- I also collaborate with [Umar Farooq Minhas](https://www.microsoft.com/en-us/research/people/ufminhas/) and the [Database Group](https://www.microsoft.com/en-us/research/group/database/) at Microsoft Research on learned data structures. -->
-Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with [Prof. Peter Bailis](http://www.bailis.org) as part of [Stanford DAWN](http://dawn.cs.stanford.edu). My research was partly supported by a [Facebook Fellowship](https://research.fb.com/fellows/ding-jialin/).
+I was previously a CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.edu/), where I was advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). My research was on applying machine learning to database systems, with a focus on [instance-optimized database design](https://dspace.mit.edu/handle/1721.1/147396).
+I also collaborated with the [Data Systems Group](https://www.microsoft.com/en-us/research/group/datasystems/) at Microsoft Research on learned data structures.
+Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with [Prof. Peter Bailis](http://www.bailis.org) as part of [Stanford DAWN](http://dawn.cs.stanford.edu). My research was partly supported by a [Meta PhD Fellowship](https://research.fb.com/fellows/ding-jialin/).
 
 [[CV](/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=uUiXiMIAAAAJ)] [[Twitter](https://twitter.com/jialin_ding)]
 
 ---
 
-## Publications
+## Conference Publications
 
-- [Learning Bit Allocations for Z-Order Layouts in Analytic Data Systems](https://mlforsystems.org/assets/papers/neurips2023/paper6.pdf).<br>
-Jenny Gao, **Jialin Ding**, Sivaprasad Sudhir and Samuel Madden. <br>
-*ML for Systems Workshop @ NeurIPS 2023*.
+- [Automated Multidimensional Data Layouts in Amazon Redshift](https://www.amazon.science/publications/automated-multidimensional-data-layouts-in-amazon-redshift). [[blog](https://aws.amazon.com/blogs/big-data/improve-performance-of-workloads-containing-repetitive-scan-filters-with-multidimensional-data-layout-sort-keys-in-amazon-redshift/)] [[press release](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multidimensional-data-layouts-preview/)]<br>
+**Jialin Ding**, Matt Abrams, Sanghita Bandyopadhyay, Luciano Di Palma, Yanzhu Ji, Davide Pagano, Gopal Paliwal, Panos Parchas, Pascal Pfeil, Orestis Polychroniou, Gaurav Saxena, Aamer Shah, Amina Voloder, Sherry Xiao, Davis Zhang, Tim Kraska. <br>
+*SIGMOD 2024 Industrial Track*.
 
-- [SageDB: An Instance-Optimized Data Analytics System](https://www.vldb.org/pvldb/vol15/p4062-ding.pdf).<br>
+- [SageDB: An Instance-Optimized Data Analytics System](https://www.vldb.org/pvldb/vol15/p4062-ding.pdf). [[talk](https://www.youtube.com/watch?v=N1Y9B0nLSxY)]<br>
 **Jialin Ding**, Ryan Marcus, Andreas Kipf, Vikram Nathan, Aniruddha Nrusimha, Kapil Vaidya, Alexander van Renen and Tim Kraska. <br>
 *VLDB 2023*.
 
@@ -32,25 +32,17 @@ Jenny Gao, **Jialin Ding**, Sivaprasad Sudhir and Samuel Madden. <br>
 Baotong Lu, **Jialin Ding**, Eric Lo, Umar Farooq Minhas and Tianzheng Wang. <br>
 *VLDB 2022*.
 
-- [Self-Organizing Data Containers](http://cidrdb.org/cidr2022/papers/p44-madden.pdf).<br>
+- [Self-Organizing Data Containers](http://cidrdb.org/cidr2022/papers/p44-madden.pdf). [[talk](https://www.youtube.com/watch?v=y9iprITX7CQ)]<br>
 Samuel Madden **Jialin Ding**, Tim Kraska, Sivaprasad Sudhir, David Cohen, Timothy Mattson and Nesime Tatbul. <br>
 *CIDR 2022*.
 
-- [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](https://arxiv.org/pdf/2006.13282.pdf). [[news](https://news.mit.edu/2020/mit-data-systems-learn-be-better-tsunami-bao-0810)]<br>
+- [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](https://arxiv.org/pdf/2006.13282.pdf). [[news](https://news.mit.edu/2020/mit-data-systems-learn-be-better-tsunami-bao-0810)] [[talk](https://www.youtube.com/watch?v=16rJmrtnKK0)]<br> 
 **Jialin Ding**, Vikram Nathan, Mohammad Alizadeh and Tim Kraska. <br>
 *VLDB 2021*.
 
-- [Instance-Optimized Data Layouts for Cloud Analytics Workloads](https://www.microsoft.com/en-us/research/uploads/prod/2021/04/msr-mto-sigmod.pdf).<br>
+- [Instance-Optimized Data Layouts for Cloud Analytics Workloads](https://www.microsoft.com/en-us/research/uploads/prod/2021/04/msr-mto-sigmod.pdf). [[talk](https://www.youtube.com/watch?v=XrugPIU1J3E)]<br>
 **Jialin Ding**, Umar Farooq Minhas, Badrish Chandramouli, Chi Wang, Yinan Li, Ying Li, Donald Kossmann, Johannes Gehrke and Tim Kraska. <br>
 *SIGMOD 2021*.
-
-- [Cortex: Harnessing Correlations to Boost Query Performance](https://arxiv.org/pdf/2012.06683.pdf).<br>
-Vikram Nathan, **Jialin Ding**, Tim Kraska and Mohammad Alizadeh. <br>
-*CoRR 2020*.
-
-- [The Case for Learned Spatial Indexes](https://sites.google.com/view/aidb2020). <br>
-Varun Pandey, Alexander van Renen, Andreas Kipf, Ibrahim Sabek, **Jialin Ding** and Alfons Kemper. <br>
-*AIDB Workshop @ VLDB 2020*.
 
 - [ALEX: An Updatable Adaptive Learned Index](https://arxiv.org/pdf/1905.08898.pdf). [[talk](https://www.youtube.com/watch?v=wVxbOcwYZ8I)] [[seminar talk](https://www.youtube.com/watch?v=Zv04F380hCw)] [[code](https://github.com/microsoft/ALEX)]<br>
 **Jialin Ding**, Umar Farooq Minhas, Jia Yu, Chi Wang, Jaeyoung Do, Hantian Zhang, Yinan Li, Badrish Chandramouli, Johannes Gehrke, Donald Kossmann, David Lomet and Tim Kraska. <br>
@@ -60,6 +52,24 @@ Varun Pandey, Alexander van Renen, Andreas Kipf, Ibrahim Sabek, **Jialin Ding** 
 Vikram Nathan<sup>\*</sup>, **Jialin Ding<sup>\*</sup>**, Mohammad Alizadeh and Tim Kraska. <br>
 *SIGMOD 2020*.
 
+- [SageDB: A Learned Database System](http://cidrdb.org/cidr2019/papers/p117-kraska-cidr19.pdf). [[the morning paper](https://blog.acolyer.org/2019/01/16/sagedb-a-learned-database-system/)]<br>
+Tim Kraska, Mohammad Alizadeh, Alex Beutel, Ed Chi, **Jialin Ding**, Ani Kristo, Guillaume Leclerc, Samuel Madden, Hongzi Mao and Vikram Nathan. <br>
+*CIDR 2019*.
+
+- [Moment-Based Quantile Sketches for Efficient High Cardinality Aggregation Queries](https://arxiv.org/pdf/1803.01969.pdf). [[the morning paper](https://blog.acolyer.org/2018/10/31/moment-based-quantile-sketches-for-efficient-high-cardinality-aggregation-queries/)] [[blog](https://dawn.cs.stanford.edu/2018/08/29/moments/)]<br>
+Edward Gan, **Jialin Ding**, Kai Sheng Tai, Vatsal Sharan and Peter Bailis. <br>
+*VLDB 2018*.
+
+## Workshop Publications & Short Papers
+
+- [Learning Bit Allocations for Z-Order Layouts in Analytic Data Systems](https://mlforsystems.org/assets/papers/neurips2023/paper6.pdf).<br>
+Jenny Gao, **Jialin Ding**, Sivaprasad Sudhir and Samuel Madden. <br>
+*ML for Systems Workshop @ NeurIPS 2023*.
+
+- [The Case for Learned Spatial Indexes](https://sites.google.com/view/aidb2020). <br>
+Varun Pandey, Alexander van Renen, Andreas Kipf, Ibrahim Sabek, **Jialin Ding** and Alfons Kemper. <br>
+*AIDB Workshop @ VLDB 2020*.
+
 - [LISA: Towards Learned DNA Sequence Search](https://arxiv.org/pdf/1910.04728.pdf). <br>
 Darryl Ho, **Jialin Ding**, Sanchit Misra, Nesime Tatbul, Vikram Nathan, Vasimuddin Md and Tim Kraska. <br>
 *Systems for ML Workshop @ NeurIPS 2019. Oral Presentation*.
@@ -68,35 +78,35 @@ Darryl Ho, **Jialin Ding**, Sanchit Misra, Nesime Tatbul, Vikram Nathan, Vasimud
 Vikram Nathan<sup>\*</sup>, **Jialin Ding<sup>\*</sup>**, Mohammad Alizadeh and Tim Kraska. <br>
 *ML for Systems Workshop @ NeurIPS 2019. Oral Presentation*.
 
-- [SageDB: A Learned Database System](http://cidrdb.org/cidr2019/papers/p117-kraska-cidr19.pdf). [[the morning paper](https://blog.acolyer.org/2019/01/16/sagedb-a-learned-database-system/)]<br>
-Tim Kraska, Mohammad Alizadeh, Alex Beutel, Ed Chi, **Jialin Ding**, Ani Kristo, Guillaume Leclerc, Samuel Madden, Hongzi Mao and Vikram Nathan. <br>
-*CIDR 2019*.
-
-- [A Machine-compiled Database of Genome-wide Association Studies](https://www.nature.com/articles/s41467-019-11026-x). <br>
-Volodymyr Kuleshov, **Jialin Ding**, Christopher Vo, Braden Hancock, Alexander Ratner, Yang Li, Christopher Ré, Serafim Batzoglou and Michael Snyder <br>
-*Nature Communications 2019*.
-
-- [Moment-Based Quantile Sketches for Efficient High Cardinality Aggregation Queries](https://arxiv.org/pdf/1803.01969.pdf). [[the morning paper](https://blog.acolyer.org/2018/10/31/moment-based-quantile-sketches-for-efficient-high-cardinality-aggregation-queries/)] [[blog](https://dawn.cs.stanford.edu/2018/08/29/moments/)]<br>
-Edward Gan, **Jialin Ding**, Kai Sheng Tai, Vatsal Sharan and Peter Bailis. <br>
-*VLDB 2018*.
-
 - [Efficient Mergeable Quantile Sketches using Moments](http://dawn.cs.stanford.edu/pubs/gan2018emerge.pdf). <br>
 Edward Gan, **Jialin Ding**, Peter Bailis. <br>
 *SysML 2018. Extended Abstract*.
-
-- [MacroBase: Prioritizing Attention in Fast Data](https://dl.acm.org/citation.cfm?doid=3298792.3276463). <br>
-Firas Abuzaid, Peter Bailis, **Jialin Ding**, Edward Gan, Samuel Madden, Deepak Narayanan, Kexin Rong and Sahaana Suri. <br>
-*TODS 2018*.
 
 - [A Machine-Compiled Database of Genome-Wide Association Studies](https://drive.google.com/file/d/0B4y0zfdRviKsRW5Zd0FBVlFIa3c/view). <br>
 Volodymyr Kuleshov, **Jialin Ding**, Braden Hancock, Alexander Ratner, Christopher Re, Serafim Batzoglou and Michael Snyder. <br>
 *ISMB 2017. Short Paper*.
 
+## Journal Publications
+
+- [A Machine-compiled Database of Genome-wide Association Studies](https://www.nature.com/articles/s41467-019-11026-x). <br>
+Volodymyr Kuleshov, **Jialin Ding**, Christopher Vo, Braden Hancock, Alexander Ratner, Yang Li, Christopher Ré, Serafim Batzoglou and Michael Snyder <br>
+*Nature Communications 2019*.
+
+- [MacroBase: Prioritizing Attention in Fast Data](https://dl.acm.org/citation.cfm?doid=3298792.3276463). <br>
+Firas Abuzaid, Peter Bailis, **Jialin Ding**, Edward Gan, Samuel Madden, Deepak Narayanan, Kexin Rong and Sahaana Suri. <br>
+*TODS 2018*.
+
+## Miscellaneous Publications
+
+- [Cortex: Harnessing Correlations to Boost Query Performance](https://arxiv.org/pdf/2012.06683.pdf).<br>
+Vikram Nathan, **Jialin Ding**, Tim Kraska and Mohammad Alizadeh. <br>
+*CoRR 2020*.
+
 ---
 
 ## Teaching and Service
 
-- Reviewer: VLDB, 2025
+- Reviewer: VLDB 2025
 - Reviewer: VLDB Demo Track, 2022-2023
 - Reviewer: VLDB Journal, 2023
 - Reviewer: TKDE, 2020
