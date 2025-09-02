@@ -1,24 +1,37 @@
 ---
 layout: default
 title: Jialin Ding
-description: I am an applied scientist at AWS, where I work on autonomics in Amazon Redshift. I will start as an Assistant Professor in Computer Science at Princeton University in Fall 2025. I was previously a CS PhD in the MIT Data Systems Group, where my research focused on applying machine learning to database systems.
+description: I am an Assistant Professor in the Computer Science Department at Princeton University,
+  where my research focuses on the intersection of data systems and AI.
+  I am also an Amazon Scholar working on agentic AI within AWS.
+  I was previously an Applied Scientist at AWS and a CS PhD in the MIT Data Systems Group.
 ---
 
 # Jialin Ding
 <img src="/static/jialin.jpg" alt="Jialin" style="width: 200px; height: 189px; float: right; margin: 10px"/>
 <!-- ![Jialin](/static/jialin.jpg) -->
 
-**I will start as an Assistant Professor in Computer Science at Princeton University in Fall 2025. I am looking for PhD students to join my group. If interested, please [apply through Princeton](https://graduate-apply.princeton.edu/apply/) and mention my name in your statement.**
+I am an Assistant Professor in the Computer Science Department at Princeton University. I am also an Amazon Scholar working on agentic AI within AWS.
 
-I am currently an applied scientist at AWS, where I work on autonomics in Amazon Redshift. I was previously a CS PhD in the [MIT Data Systems Group](http://dsg.csail.mit.edu/), where I was advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). My research was partly supported by a [Meta PhD Fellowship](https://research.fb.com/fellows/ding-jialin/).
+<!-- I am looking for PhD students to join my group. If interested, please [apply through Princeton](https://graduate-apply.princeton.edu/apply/) and mention my name in your statement. -->
+
+I was previously an Applied Scientist at AWS, where I worked on autonomics in Amazon Redshift. I received my PhD from MIT, where I worked in the [Data Systems Group](http://dsg.csail.mit.edu/) and was partly supported by a [Meta PhD Fellowship](https://research.fb.com/fellows/ding-jialin/).
 
 I research machine learning and optimization techniques for data systems, with a focus on [_instance-optimization_](https://dspace.mit.edu/handle/1721.1/147396), a new design paradigm for building data systems that can automatically self-optimize to achieve the best performance for any specific application or use case. I have leveraged instance-optimization to introduce novel designs for data storage layouts ([1](https://arxiv.org/pdf/1912.01668.pdf), [2](https://arxiv.org/pdf/2006.13282.pdf), [3](https://www.microsoft.com/en-us/research/uploads/prod/2021/04/msr-mto-sigmod.pdf), [4](https://www.amazon.science/publications/automated-multidimensional-data-layouts-in-amazon-redshift)), database indexes ([5](https://arxiv.org/pdf/1905.08898.pdf), [6](https://arxiv.org/pdf/2105.00683.pdf), [7](https://arxiv.org/pdf/1910.04728.pdf)) and end-to-end data systems ([8](https://www.vldb.org/pvldb/vol15/p4062-ding.pdf), [9](http://cidrdb.org/cidr2022/papers/p44-madden.pdf)). See [here](/research_statement.pdf) for a more detailed description of my past and future research directions.
 
 [[CV](/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=uUiXiMIAAAAJ)] [[Twitter](https://twitter.com/jialin_ding)] [[Research Statement](/research_statement.pdf)] [[Teaching Statement](/teaching_statement.pdf)]
 
+📧 jialind@princeton.edu \| 🏢 194 Nassau St, Room 242 ([directions](/office_directions.txt)); Princeton, NJ 08542
+
 ---
 
+## PhD Students
+- [Karan Tandon](https://karan2dec.github.io/) (co-advised with [Ravi Netravali](https://www.cs.princeton.edu/~ravian/))
+- [Jinghan Zeng](https://www.linkedin.com/in/jinghan-zeng-09a716248/) (co-advised with [Wyatt Lloyd](https://www.cs.princeton.edu/~wlloyd/))
+
 ## Conference Publications
+
+- [Parachute: Single-Pass Bi-Directional Information Passing.](https://arxiv.org/pdf/2506.13670) Mihail Stoian, Andreas Zimmerer, Skander Krid, Amadou Latyr Ngom, **Jialin Ding**, Tim Kraska and Andreas Kipf. *VLDB 2025.*
 
 - [Automated Multidimensional Data Layouts in Amazon Redshift](https://www.amazon.science/publications/automated-multidimensional-data-layouts-in-amazon-redshift). [[blog](https://aws.amazon.com/blogs/big-data/improve-performance-of-workloads-containing-repetitive-scan-filters-with-multidimensional-data-layout-sort-keys-in-amazon-redshift/)] [[press release](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multidimensional-data-layouts-preview/)]<br>
 **Jialin Ding**, Matt Abrams, Sanghita Bandyopadhyay, Luciano Di Palma, Yanzhu Ji, Davide Pagano, Gopal Paliwal, Panos Parchas, Pascal Pfeil, Orestis Polychroniou, Gaurav Saxena, Aamer Shah, Amina Voloder, Sherry Xiao, Davis Zhang, Tim Kraska. <br>
@@ -62,6 +75,10 @@ Edward Gan, **Jialin Ding**, Kai Sheng Tai, Vatsal Sharan and Peter Bailis. <br>
 
 ## Workshop Publications & Short Papers
 
+- [TailorSQL: A NL2SQL System Tailored for Your Query Workload.](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/AIDB/AIDB25_2.pdf) Kapil Vaidya, **Jialin Ding**, Sebastian Kosak, David Kernert, Chuan Lei, Xiao Qin, Abhinav Tripathy, Ramesh Balan, Balakrishnan Narayanaswamy and Tim Kraska. *AIDB Workshop @ VLDB 2025.*
+
+- [Utilizing Past User Feedback for More Accurate Text-to-SQL.](https://dl.acm.org/doi/10.1145/3736733.3736739) Matthias Urban, **Jialin Ding**, David Kernert, Kapil Vaidya and Tim Kraska. *HILDA Workshop @ SIGMOD 2025.*
+
 - [Learning Bit Allocations for Z-Order Layouts in Analytic Data Systems](https://mlforsystems.org/assets/papers/neurips2023/paper6.pdf).<br>
 Jenny Gao, **Jialin Ding**, Sivaprasad Sudhir and Samuel Madden. <br>
 *ML for Systems Workshop @ NeurIPS 2023*.
@@ -102,29 +119,30 @@ Firas Abuzaid, Peter Bailis, **Jialin Ding**, Edward Gan, Samuel Madden, Deepak 
 Vikram Nathan, **Jialin Ding**, Tim Kraska and Mohammad Alizadeh. <br>
 *CoRR 2020*.
 
----
+## Teaching
 
-## Teaching and Service
+- COS 418 (Distributed Systems): [Fall 2025](https://www.cs.princeton.edu/courses/archive/fall25/cos418/)
+- Teaching Assistant: [6.887 (Machine Learning for Systems)](http://dsg.csail.mit.edu/6.887/), Fall 2021 
 
-- Reviewer: VLDB 2025
-- Reviewer: VLDB Demo Track, 2022-2023
-- Reviewer: VLDB Journal, 2023
-- Reviewer: TKDE, 2020
-- Teaching Assistant: [6.887: Machine Learning for Systems](http://dsg.csail.mit.edu/6.887/), Fall 2021 
+## Service
+
+#### Program Committees:
+- VLDB: 2025 (Distinguished Reviewer Award), 2026
+- SIGMOD: 2026
+- VLDB Demo Track: 2022, 2023
+
+#### Journal Reviewer:
+- VLDB Journal: 2023
+- TKDE: 2020
+
+#### Miscellaneous:
 - Student Volunteer: VLDB 2021
 
----
+## Industry Experience
 
-## Experience
-
-- Applied Scientist @ AWS, 2022-Present
+- Amazon Scholar @ AWS, 2025-Present
+- Applied Scientist @ AWS, 2022-2025
 - Research Intern @ MSR Redmond, Summer 2020
 - Research Intern @ MSR Redmond, Summer 2018
 - Software Engineering Intern @ Google, Summer 2016
 - Software Engineering Intern @ Thumbtack, Summer 2015
-
-___
-
-## Contact
-
-jialind@amazon.com

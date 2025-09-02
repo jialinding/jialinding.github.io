@@ -1,0 +1,25 @@
+My office is currently #242 in 194 Nassau.
+
+To find it, go to 194 Nassau street and enter the main doors (between
+the two banks). Go up the stairwell to the 2nd floor. Then keep making
+left turns until you find my office. Here's a map:
+
++-----------------------------------+
+|       Nassau Street               |
++--------+----------+---------------+
+   Bank  |          | Bank           
+         | Entrance |                
++--------+          +                  +--------+      
+|        |          |                  |        |      
+| Stairs            |              +-->| Office | 
+|        |----------|              |   | 242    |
+|        +-----+    |              |   +--------+
++--------+     |    |              | 
+               |    |              | 
+               |    |              | 
+               |    |              | 
+               |    |              | 
+               |    +              | 
+               |                   | 
+               | Path to my office | 
+               +-------------------+ 

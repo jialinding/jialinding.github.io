@@ -16,8 +16,9 @@
 title: Jialin Ding
 email: jialind@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am an applied scientist at AWS, where I work on autonomics in Amazon Redshift.
-  I will start as an Assistant Professor in Computer Science at Princeton University in Fall 2025.
+  I am an Assistant Professor in the Computer Science Department at Princeton University,
+  where my research focuses on the intersection of data systems and AI.
+  I am also an Amazon Scholar working on agentic AI within AWS.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jialinding
