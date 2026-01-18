@@ -3,7 +3,6 @@ layout: default
 title: Jialin Ding
 description: I am an Assistant Professor in the Computer Science Department at Princeton University,
   where my research focuses on the intersection of data systems and AI.
-  I am also an Amazon Scholar working on agentic AI within AWS.
   I was previously an Applied Scientist at AWS and a CS PhD in the MIT Data Systems Group.
 ---
 
@@ -11,7 +10,7 @@ description: I am an Assistant Professor in the Computer Science Department at P
 <img src="/static/jialin.jpg" alt="Jialin" style="width: 200px; height: 189px; float: right; margin: 10px"/>
 <!-- ![Jialin](/static/jialin.jpg) -->
 
-I am an Assistant Professor in the Computer Science Department at Princeton University. I am also an Amazon Scholar working on agentic AI within AWS.
+I am an Assistant Professor in the Computer Science Department at Princeton University. I am also an Amazon Scholar working on data systems within AWS.
 
 <!-- I am looking for PhD students to join my group. If interested, please [apply through Princeton](https://graduate-apply.princeton.edu/apply/) and mention my name in your statement. -->
 
@@ -25,9 +24,12 @@ I research machine learning and optimization techniques for data systems, with a
 
 ---
 
-## PhD Students
+## Graduate Students
 - [Karan Tandon](https://karan2dec.github.io/) (co-advised with [Ravi Netravali](https://www.cs.princeton.edu/~ravian/))
 - [Jinghan Zeng](https://www.linkedin.com/in/jinghan-zeng-09a716248/) (co-advised with [Wyatt Lloyd](https://www.cs.princeton.edu/~wlloyd/))
+- [Polly Ren](https://www.linkedin.com/in/pollyren/) (MSE)
+- [Nicholas Yap](https://www.linkedin.com/in/nicholas-yap-5706311b7/) (MSE)
+
 
 ## Conference Publications
 
@@ -127,8 +129,8 @@ Vikram Nathan, **Jialin Ding**, Tim Kraska and Mohammad Alizadeh. <br>
 ## Service
 
 #### Program Committees:
-- VLDB: 2025 (Distinguished Reviewer Award), 2026
-- SIGMOD: 2026
+- VLDB: 2025 (Distinguished Reviewer Award), 2026, 2027
+- SIGMOD: 2026, 2027
 - VLDB Demo Track: 2022, 2023
 
 #### Journal Reviewer:
