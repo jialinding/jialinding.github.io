@@ -12,7 +12,7 @@ no_header: true
 
 **Instructor:** [Jialin Ding](https://jialinding.github.io/)
 
-**Office hours:** Tuesdays 1:30pm – 2:30pm in 194 Nassau Room 242 ([directions](/office_directions.txt))
+**Office hours:** Directly after class or by appointment (email Jialin)
 
 **Quick links**: [syllabus](https://docs.google.com/document/d/19qY10QB8LeqYXuF6RScIIJUgw6XFbLai1J-f5iFm9es/edit?usp=sharing) / [schedule](https://docs.google.com/spreadsheets/d/1yuwLoTLSAKx-FwCD4fNYRmly6-6Ah3XCVhkbGyn0xNg/edit?usp=sharing) / [Ed](https://edstem.org/us/courses/94107/discussion) / [discussion questions form](https://forms.gle/wkiLn3zmz9CacPpr9)
 
