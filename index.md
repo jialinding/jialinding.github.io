@@ -10,15 +10,15 @@ description: I am an Assistant Professor in the Computer Science Department at P
 <img src="/static/jialin.jpg" alt="Jialin" style="width: 200px; height: 189px; float: right; margin: 10px"/>
 <!-- ![Jialin](/static/jialin.jpg) -->
 
-I am an Assistant Professor in the Computer Science Department at Princeton University. I am also an Amazon Scholar working on data systems within AWS.
+I am an Assistant Professor in the [Computer Science Department](https://www.cs.princeton.edu/) at Princeton University, where my research focuses on the intersection of data systems and AI. I am also an [Amazon Scholar](https://www.amazon.science/scholars) working on data systems within AWS. I was previously an Applied Scientist at AWS, and I received my PhD in CS from MIT.
 
-<!-- I am looking for PhD students to join my group. If interested, please [apply through Princeton](https://graduate-apply.princeton.edu/apply/) and mention my name in your statement. -->
+**I am looking for PhD students to join my group for Fall 2027.** If interested, please [apply through Princeton](https://graduate-apply.princeton.edu/apply/) and include my full name in your statement of purpose. I will make sure to read your application. There is no need to contact me directly regarding your application.
 
-I was previously an Applied Scientist at AWS, where I worked on autonomics in Amazon Redshift. I received my PhD from MIT, where I worked in the [Data Systems Group](http://dsg.csail.mit.edu/) and was partly supported by a [Meta PhD Fellowship](https://research.fb.com/fellows/ding-jialin/).
+**Current research:** 1) Performance optimizations for information retrieval systems (both vector search and keyword search), and 2) storage layouts for cloud data lakes.
 
-I research machine learning and optimization techniques for data systems, with a focus on [_instance-optimization_](https://dspace.mit.edu/handle/1721.1/147396), a new design paradigm for building data systems that can automatically self-optimize to achieve the best performance for any specific application or use case. I have leveraged instance-optimization to introduce novel designs for data storage layouts ([1](https://arxiv.org/pdf/1912.01668.pdf), [2](https://arxiv.org/pdf/2006.13282.pdf), [3](https://www.microsoft.com/en-us/research/uploads/prod/2021/04/msr-mto-sigmod.pdf), [4](https://www.amazon.science/publications/automated-multidimensional-data-layouts-in-amazon-redshift)), database indexes ([5](https://arxiv.org/pdf/1905.08898.pdf), [6](https://arxiv.org/pdf/2105.00683.pdf), [7](https://arxiv.org/pdf/1910.04728.pdf)) and end-to-end data systems ([8](https://www.vldb.org/pvldb/vol15/p4062-ding.pdf), [9](http://cidrdb.org/cidr2022/papers/p44-madden.pdf)). See [here](/research_statement.pdf) for a more detailed description of my past and future research directions.
+**Past research:** My past work was on ML and optimization techniques for data systems, with a focus on [_instance-optimization_](https://dspace.mit.edu/handle/1721.1/147396), a new design paradigm for building data systems that can automatically self-optimize to achieve the best performance for any specific application or use case. I have leveraged instance-optimization to introduce novel designs for data storage layouts ([1](https://arxiv.org/pdf/1912.01668.pdf), [2](https://arxiv.org/pdf/2006.13282.pdf), [3](https://www.microsoft.com/en-us/research/uploads/prod/2021/04/msr-mto-sigmod.pdf), [4](https://www.amazon.science/publications/automated-multidimensional-data-layouts-in-amazon-redshift)), database indexes ([5](https://arxiv.org/pdf/1905.08898.pdf), [6](https://arxiv.org/pdf/2105.00683.pdf), [7](https://arxiv.org/pdf/1910.04728.pdf)) and end-to-end data systems ([8](https://www.vldb.org/pvldb/vol15/p4062-ding.pdf), [9](http://cidrdb.org/cidr2022/papers/p44-madden.pdf)). See [here](/research_statement.pdf) for a more detailed description of my past research directions.
 
-[[CV](/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=uUiXiMIAAAAJ)] [[Twitter](https://twitter.com/jialin_ding)] [[Research Statement](/research_statement.pdf)] [[Teaching Statement](/teaching_statement.pdf)]
+[[CV](/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=uUiXiMIAAAAJ)] [[Twitter](https://twitter.com/jialin_ding)] [[LinkedIn](https://www.linkedin.com/in/jialinding)]
 
 📧 jialind@princeton.edu \| 🏢 194 Nassau St, Room 242 ([directions](/office_directions.txt)); Princeton, NJ 08542
 
@@ -26,14 +26,22 @@ I research machine learning and optimization techniques for data systems, with a
 
 ## Graduate Students
 - [Karan Tandon](https://karan2dec.github.io/) (co-advised with [Ravi Netravali](https://www.cs.princeton.edu/~ravian/))
+- [Sairaj Voruganti](https://www.linkedin.com/in/sairaj-voruganti-59b793109/)
 - [Jinghan Zeng](https://www.linkedin.com/in/jinghan-zeng-09a716248/) (co-advised with [Wyatt Lloyd](https://www.cs.princeton.edu/~wlloyd/))
+- [Anupta Argo](https://www.linkedin.com/in/anupta-argo/) (MSE)
 - [Polly Ren](https://www.linkedin.com/in/pollyren/) (MSE)
 - [Nicholas Yap](https://www.linkedin.com/in/nicholas-yap-5706311b7/) (MSE)
 
 
 ## Conference Publications
 
-- [Parachute: Single-Pass Bi-Directional Information Passing.](https://arxiv.org/pdf/2506.13670) Mihail Stoian, Andreas Zimmerer, Skander Krid, Amadou Latyr Ngom, **Jialin Ding**, Tim Kraska and Andreas Kipf. *VLDB 2025.*
+- [KramaBench: A Benchmark for AI Systems on Data-to-Insight Pipelines over Data Lakes.](https://arxiv.org/pdf/2506.06541)<br>
+Eugenie Lai, Gerardo Vitagliano, Ziyu Zhang, Om Chabra, Sivaprasad Sudhir, Anna Zeng, Anton A. Zabreyko, Chenning Li, Ferdi Kossmann, **Jialin Ding**, Jun Chen, Markos Markakis, Matthew Russo, Weiyang Wang, Ziniu Wu, Michael J. Cafarella, Lei Cao, Samuel Madden and Tim Kraska.<br>
+*ICLR 2026.*
+
+- [Parachute: Single-Pass Bi-Directional Information Passing.](https://arxiv.org/pdf/2506.13670)<br>
+Mihail Stoian, Andreas Zimmerer, Skander Krid, Amadou Latyr Ngom, **Jialin Ding**, Tim Kraska and Andreas Kipf.<br>
+*VLDB 2025.*
 
 - [Automated Multidimensional Data Layouts in Amazon Redshift](https://www.amazon.science/publications/automated-multidimensional-data-layouts-in-amazon-redshift). [[blog](https://aws.amazon.com/blogs/big-data/improve-performance-of-workloads-containing-repetitive-scan-filters-with-multidimensional-data-layout-sort-keys-in-amazon-redshift/)] [[press release](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multidimensional-data-layouts-preview/)]<br>
 **Jialin Ding**, Matt Abrams, Sanghita Bandyopadhyay, Luciano Di Palma, Yanzhu Ji, Davide Pagano, Gopal Paliwal, Panos Parchas, Pascal Pfeil, Orestis Polychroniou, Gaurav Saxena, Aamer Shah, Amina Voloder, Sherry Xiao, Davis Zhang, Tim Kraska. <br>
@@ -77,7 +85,13 @@ Edward Gan, **Jialin Ding**, Kai Sheng Tai, Vatsal Sharan and Peter Bailis. <br>
 
 ## Workshop Publications & Short Papers
 
-- [TailorSQL: A NL2SQL System Tailored for Your Query Workload.](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/AIDB/AIDB25_2.pdf) Kapil Vaidya, **Jialin Ding**, Sebastian Kosak, David Kernert, Chuan Lei, Xiao Qin, Abhinav Tripathy, Ramesh Balan, Balakrishnan Narayanaswamy and Tim Kraska. *AIDB Workshop @ VLDB 2025.*
+- [A Simple and Fast Way to Handle Semantic Errors in Transactions.](https://ne-agents-day.github.io/#program)<br>
+Jinghan Zeng, Eugene Wu, Sanjay Krishnan, Wyatt Lloyd and **Jialin Ding**.<br>
+*Northeast AI Agents Day. Abstract.*
+
+- [TailorSQL: A NL2SQL System Tailored for Your Query Workload.](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/AIDB/AIDB25_2.pdf)<br>
+Kapil Vaidya, **Jialin Ding**, Sebastian Kosak, David Kernert, Chuan Lei, Xiao Qin, Abhinav Tripathy, Ramesh Balan, Balakrishnan Narayanaswamy and Tim Kraska.<br>
+*AIDB Workshop @ VLDB 2025.*
 
 - [Utilizing Past User Feedback for More Accurate Text-to-SQL.](https://dl.acm.org/doi/10.1145/3736733.3736739) Matthias Urban, **Jialin Ding**, David Kernert, Kapil Vaidya and Tim Kraska. *HILDA Workshop @ SIGMOD 2025.*
 
@@ -117,6 +131,10 @@ Firas Abuzaid, Peter Bailis, **Jialin Ding**, Edward Gan, Samuel Madden, Deepak 
 
 ## Miscellaneous Publications
 
+- [ODIN: A NL2SQL Recommender to Handle Schema Ambiguity](https://arxiv.org/pdf/2505.19302).<br>
+Kapil Vaidya, Abishek Sankararaman, **Jialin Ding**, Chuan Lei, Xiao Qin, Balakrishnan Narayanaswamy and Tim Kraska.<br>
+*CoRR 2025*.
+
 - [Cortex: Harnessing Correlations to Boost Query Performance](https://arxiv.org/pdf/2012.06683.pdf).<br>
 Vikram Nathan, **Jialin Ding**, Tim Kraska and Mohammad Alizadeh. <br>
 *CoRR 2020*.
@@ -124,21 +142,14 @@ Vikram Nathan, **Jialin Ding**, Tim Kraska and Mohammad Alizadeh. <br>
 ## Teaching
 
 - COS 418 (Distributed Systems): [Fall 2025](https://www.cs.princeton.edu/courses/archive/fall25/cos418/)
+- COS 598I (Modern Data Systems): [Spring 2026](https://jialinding.github.io/modern-data-systems-s26/)
 - Teaching Assistant: [6.887 (Machine Learning for Systems)](http://dsg.csail.mit.edu/6.887/), Fall 2021 
 
-## Service
+## Program Committees
 
-#### Program Committees:
 - VLDB: 2025 (Distinguished Reviewer Award), 2026, 2027
 - SIGMOD: 2026, 2027
 - VLDB Demo Track: 2022, 2023
-
-#### Journal Reviewer:
-- VLDB Journal: 2023
-- TKDE: 2020
-
-#### Miscellaneous:
-- Student Volunteer: VLDB 2021
 
 ## Industry Experience
 
